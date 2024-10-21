@@ -1,0 +1,82 @@
+							JAVA	
+>Programming language
+>High level (easy to understand and simple)
+> robust (Strong memory management)
+> object oriented (combination of class and object)
+> Secure programming language - not easy to hack
+
+//first letter of class is always capital
+String : class
+-> wrapper class
+public static void main(String[] args)
+Command line argument
+
+two type: 
+a) array command line argument| fixed command line argument
+public static void main(String[] args)
+	--> fixed size
+
+b) variable command line argument
+public static void main(String... args)
+	--> Size is not fixed
+
+... : ellapse
+
+public: access modifier
+static: keyword
+	--> Saves memory
+
+void : return type
+
+main() : predefined method( functions are called methods in java)
+	--> Entry point
+	--> Used for code execution
+
+String : class
+	--> wrapper class
+
+args: object(of String class)
+
+[] : array
+
+---------------------------------------------------------------------------
+System.out.println("Hello world"); :Singleton pattern
+
+System: class
+
+out: object
+		-->of Prinstream class
+print(): method
+		--> Prinstream
+
+. : member access operator || dot operator
+	--> Class k name k through object ko call karna hai
+	--> Class k through methods call
+	--> Object ke through method ko call karta
+--------------------------------------------------------------------------
+commands: 
+
+compile time : 
+javac FileName.java
+
+javac Main.java
+
+run time:
+java FileName
+java Main
+-------------------------------------------------------------------------------
+How to compile the code?
+
+JVM : Java Virtual Machine
+	--> Read bytecode
+	-->it recompiles the code 	(done by JIT compiler --just in time)
+
+//Quesions 
+> what is bytecode?  : lightweight, platform independent, imports the files as needed
+> What is JIT?- (Just in time, helps in recompiling bytecode)
+> How many type of compilers in Java? - 2,(JIT & JAVAC)
+> why JAVA is platform independent? - Due to bytecode and JVM
+
+
+
+	
