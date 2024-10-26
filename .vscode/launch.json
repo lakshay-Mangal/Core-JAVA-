@@ -3,6 +3,188 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Print",
+      "request": "launch",
+      "mainClass": "Print",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Customer_retailer",
+      "request": "launch",
+      "mainClass": "advance.Customer_retailer",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Electricity",
+      "request": "launch",
+      "mainClass": "advance.Electricity",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "advance.Main",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Report",
+      "request": "launch",
+      "mainClass": "advance.Report",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "height",
+      "request": "launch",
+      "mainClass": "advance.height",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Mark",
+      "request": "launch",
+      "mainClass": "advance.Mark",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Temp",
+      "request": "launch",
+      "mainClass": "advance.Temp",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Area",
+      "request": "launch",
+      "mainClass": "advance.Area",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Ticket_calculator",
+      "request": "launch",
+      "mainClass": "Super.Ticket_calculator",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Temp",
+      "request": "launch",
+      "mainClass": "Temp",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Menu",
+      "request": "launch",
+      "mainClass": "Menu",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "st_cmp2",
+      "request": "launch",
+      "mainClass": "String.st_cmp2",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Str_cmp",
+      "request": "launch",
+      "mainClass": "String.Str_cmp",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Increment_calculator",
+      "request": "launch",
+      "mainClass": "Super.Increment_calculator",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Armstrong",
+      "request": "launch",
+      "mainClass": "dvance.Armstrong",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "dvance.Reverse",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Reverse",
+      "request": "launch",
+      "mainClass": "Advance.Reverse",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "Advance.Palindrome",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "Advance.palindrome",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "reverse",
+      "request": "launch",
+      "mainClass": "Advance.reverse",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "ques2",
+      "request": "launch",
+      "mainClass": "ques2",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "ques20",
+      "request": "launch",
+      "mainClass": "ques20",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "ques15",
+      "request": "launch",
+      "mainClass": "ques15",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "ques3",
+      "request": "launch",
+      "mainClass": "ques3",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
       "name": "user_input",
       "request": "launch",
       "mainClass": "user_input",
