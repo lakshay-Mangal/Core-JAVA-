@@ -3,6 +3,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Ques",
+      "request": "launch",
+      "mainClass": "Ques",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "FuelConsumption",
+      "request": "launch",
+      "mainClass": "FuelConsumption",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Fuel_consumption",
+      "request": "launch",
+      "mainClass": "Fuel_consumption",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Pizza_order",
+      "request": "launch",
+      "mainClass": "Pizza_order",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Magic_band",
+      "request": "launch",
+      "mainClass": "Magic_band",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Seasons",
+      "request": "launch",
+      "mainClass": "Seasons",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Prime_list",
+      "request": "launch",
+      "mainClass": "Prime_list",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Palindrome",
+      "request": "launch",
+      "mainClass": "Palindrome",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Lucky_number",
+      "request": "launch",
+      "mainClass": "Lucky_number",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
       "name": "Test",
       "request": "launch",
       "mainClass": "Test",
