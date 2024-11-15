@@ -1,5 +1,7 @@
+package Method;
 
 import java.util.Scanner;
+
 
 class Fun{
     static int power(int num, int power)
@@ -13,14 +15,12 @@ class Fun{
         return res;
     }
     boolean even()
-    {   
+    {  
         System.out.println("Enter a number");
         Scanner sc = new Scanner(System.in);
         int x = sc.nextInt();
-       if(x%2==0)
-       return true;
-       else
-       return false;
+
+        return x/2==0;
     }
     boolean armstrong()
     {
@@ -45,12 +45,12 @@ class Fun{
     }
     boolean palindrome()
     {
-        
+       
         System.out.println("Enter a number");
         Scanner sc = new Scanner(System.in);
         int x =sc.nextInt();
         int temp =x,rev=0;
-        
+       
         while(temp!=0)
         {
             int rem=temp%10;
@@ -87,23 +87,48 @@ class Fun{
         return neon==x;
     }
 
+
 }
+
 
 public class Main{
     public static void main(String[] args) {
         Fun a= new Fun();
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter a String");
+        String x = sc.nextLine();
+         x = x.toLowerCase();
+        if(x.equals("armstrong")) {
         if(a.armstrong())
         System.out.println("Armstrong");
         else
         System.out.println("Not armstrong");
+
+        }
+        if(x.equals("palindrome"))
+        {
         if(a.palindrome())
         System.out.println("Palindrome");
         else
         System.out.println("Not palindrome");
+        }
+
+        if(x.equals("neon")) {
         if(a.neon())
         System.out.println("Neon");
+        
         else
         System.out.println("Not neon");
+        }
+        if(x.equals("factorial"))
         System.out.println("Factorial is "+a.factorial());
+
+        if(x.equals("even"))
+        {
+            if(a.even())
+            System.out.println("Even");
+            else
+            System.out.println("Odd");
+        }
     }
 }

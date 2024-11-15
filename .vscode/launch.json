@@ -3,6 +3,104 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Const",
+      "request": "launch",
+      "mainClass": "Method.Const",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Method.Main",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Switch",
+      "request": "launch",
+      "mainClass": "Switch",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Ques1",
+      "request": "launch",
+      "mainClass": "Ques1",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Minor",
+      "request": "launch",
+      "mainClass": "Minor",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "ques1",
+      "request": "launch",
+      "mainClass": "ques1",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Methods.Main",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "NewOp",
+      "request": "launch",
+      "mainClass": "Methods.NewOp",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "New",
+      "request": "launch",
+      "mainClass": "Methods.New",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Ques3",
+      "request": "launch",
+      "mainClass": "Methods.Ques3",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "NoRet",
+      "request": "launch",
+      "mainClass": "Methods.NoRet",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "OtherOperations",
+      "request": "launch",
+      "mainClass": "Methods.OtherOperations",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Ques",
+      "request": "launch",
+      "mainClass": "Methods.Ques",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "java_5b1b79c5"
+    },
+    {
+      "type": "java",
       "name": "Ques",
       "request": "launch",
       "mainClass": "Ques",
